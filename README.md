@@ -1,2 +1,3 @@
 # Firstprg
-First git repo
+This is my first repository.
+Author- Avadhut Chavan
